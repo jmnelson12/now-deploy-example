@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "name": "now-deploy-example",
+    "public": true,
+    "routes": [{
+        "src": "/(.*)",
+        "dest": "/pages"
+    }]
+}
